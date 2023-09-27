@@ -3,7 +3,7 @@
 
 ## Best subset models under AIC, SBIC, SBC, Cp and Adjusted R-square
 
-## K-var subset model selection (1<=K<=6)
+## K-var subset model selection
 
 ## Automatic Selecton methods:
 * Foward
