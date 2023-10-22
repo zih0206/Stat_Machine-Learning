@@ -1,7 +1,7 @@
 # SLR_MR_Model_selection (Regressors selection)
 * I will update a package for variable selection. (This will use statistic methods)
 
-## Criterial:
+### Criterial:
 * Best subset models under AIC, SBIC, SBC, Cp and Adjusted R-square
 
 ## K-var subset model selection (Plot)
@@ -11,8 +11,20 @@
 * Backwrd
 * Stepwise
 
-# This folder also contain the methods for detect Collinearity
+# This folder also contain the methods for detecting and alleviate collinearity
+## Methods for detecting
 * Correlation Matrix
 * VIF
 * Condition Index
 * Condition Number
+
+## Methods for alleviating
+* Data Transformation (Box-Cox and Weighted least square)
+* Centering Data
+* Model re-specification
+  
+## Additionally, the below methods will be used for dealling with multi-collinearity if the above methods cannot perform perfect.
+Ridge Regression 
+Principle Componet Regression
+Partial Least Square
+Elastic Net (Cross Validation will be use for choose parameter alpha, and lambda)
