@@ -24,7 +24,7 @@
 * Model re-specification
   
 ## Additionally, the below methods will be used for dealling with multi-collinearity if the above methods cannot perform perfect.
-Ridge Regression 
-Principle Componet Regression
-Partial Least Square
-Elastic Net (Cross Validation will be use for choose parameter alpha, and lambda)
+* Ridge Regression
+* Principle Componet Regression
+* Partial Least Square
+* Elastic Net (Cross Validation will be use for choose parameter alpha, and lambda)
