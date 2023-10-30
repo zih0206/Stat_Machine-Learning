@@ -11,7 +11,7 @@
 * Backwrd
 * Stepwise
 
-# This folder also contains the methods for detecting and the ways of alleviating collinearity
+# This file also contains the methods for detecting and the ways of alleviating collinearity
 ## Methods for detecting
 * Correlation Matrix
 * VIF
