@@ -29,4 +29,4 @@
 * Partial Least Square
 * Elastic Net (Cross Validation will be use for choose parameter alpha, and lambda)
 
-** All of the above methods have been shown on the jupyter file.**
+*All of the above methods have been shown on the jupyter file.*
