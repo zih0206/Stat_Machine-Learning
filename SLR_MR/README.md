@@ -1,5 +1,5 @@
 # SLR_MR_Model_selection (Regressors selection)
-* I will update a package for variable selection. (This will use statistic methods)
+* I will update a package for variables selection. (This will use statistic methods)
 
 ### Criterial:
 * Best subset models under AIC, SBIC, SBC, Cp and Adjusted R-square
@@ -11,7 +11,7 @@
 * Backwrd
 * Stepwise
 
-# This folder also contains the methods for detecting and alleviate collinearity
+# This folder also contains the methods for detecting and the ways of alleviating collinearity
 ## Methods for detecting
 * Correlation Matrix
 * VIF
@@ -28,3 +28,5 @@
 * Principle Componet Regression
 * Partial Least Square
 * Elastic Net (Cross Validation will be use for choose parameter alpha, and lambda)
+
+** All of the above methods have been shown on the jupyter file.**
