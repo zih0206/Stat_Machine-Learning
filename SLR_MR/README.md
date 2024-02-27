@@ -1,5 +1,5 @@
 # SLR and MR analysis
-* The ipynb file provided a rigoros regresson analysis and factors interpretation.
+* The ipynb file provided a rigorous regresson analysis and factors interpretation.
 * regresson analysis includes: model selection, model diagnostics, method for alleviating collinearity
 
 ## SLR_MR_Model_selection (Regressors selection)
