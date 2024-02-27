@@ -1,4 +1,4 @@
-# SLR and MR analysis
+# SLR and MR analysis (Sample Data set: 17-18 NBA data)
 * The ipynb file provided a rigorous regresson analysis and factors interpretation.
 * regresson analysis includes: Exploratory data analysis, model selection, model diagnostics, methods for processing the issues of ollinearity
 
