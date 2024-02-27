@@ -1,16 +1,15 @@
 # SLR and MR analysis
 * The ipynb file provided a rigorous regresson analysis and factors interpretation.
-* regresson analysis includes: model selection, model diagnostics, method for alleviating collinearity
+* regresson analysis includes: Exploratory data analysis, model selection, model diagnostics, methods for processing the issues of ollinearity
 
 ## SLR_MR_Model_selection (Regressors selection)
 * I will update a package for variables selection. (This will use statistic methods)
+### Selection Criterials:
+* AIC, SBIC, SBC, Cp and Adjusted R-square
 
-### Criterial:
-* Best subset models under AIC, SBIC, SBC, Cp and Adjusted R-square
+### K-var subset model selection (Plot)
 
-## K-var subset model selection (Plot)
-
-## Automatic Selecton methods (Here:check p-value, you can also use AIC BIC and so on as the selection criterial):
+## Automatic Selecton methods (Here:check p-value, you can also use AIC BIC and so on as a selection criterial):
 * Foward
 * Backwrd
 * Stepwise
