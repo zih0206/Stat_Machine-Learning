@@ -14,14 +14,14 @@
 * Backwrd
 * Stepwise
 
-# This file also contains the methods for *detecting* and the ways of *alleviating* collinearity
-## *1. Methods for detecting*
+## This file also contains the methods for *detecting* and the ways of *alleviating* collinearity
+### *1. Methods for detecting*
 * Correlation Matrix
 * VIF
 * Condition Index
 * Condition Number
 
-## *2. Methods for alleviating*
+### *2. Methods for alleviating*
 * Data Transformation (Box-Cox and Weighted least square)
 * Centering Data
 * Model re-specification
