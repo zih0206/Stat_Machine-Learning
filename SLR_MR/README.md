@@ -1,4 +1,8 @@
-# SLR_MR_Model_selection (Regressors selection)
+# SLR and MR analysis
+* The ipynb file provided a rigoros regresson analysis and factors interpretation.
+* regresson analysis includes: model selection, model diagnostics, method for alleviating collinearity
+
+## SLR_MR_Model_selection (Regressors selection)
 * I will update a package for variables selection. (This will use statistic methods)
 
 ### Criterial:
@@ -11,14 +15,14 @@
 * Backwrd
 * Stepwise
 
-# This file also contains the methods for detecting and the ways of alleviating collinearity
-## Methods for detecting
+# This file also contains the methods for *detecting* and the ways of *alleviating* collinearity
+## *1. Methods for detecting*
 * Correlation Matrix
 * VIF
 * Condition Index
 * Condition Number
 
-## Methods for alleviating
+## *2. Methods for alleviating*
 * Data Transformation (Box-Cox and Weighted least square)
 * Centering Data
 * Model re-specification
