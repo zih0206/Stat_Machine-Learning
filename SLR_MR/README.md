@@ -9,6 +9,9 @@
 
 ### K-var subset model selection (Plot)
 
+## Data Transformation
+(Box-Cox and Weighted least square)
+
 ## Automatic Selecton methods (Here:check p-value, you can also use AIC BIC and so on as a selection criterial):
 * Foward
 * Backwrd
@@ -22,7 +25,6 @@
 * Condition Number
 
 ### *2. Methods for alleviating collinearity*
-* Data Transformation (Box-Cox and Weighted least square)
 * Centering Data
 * Model re-specification
   
