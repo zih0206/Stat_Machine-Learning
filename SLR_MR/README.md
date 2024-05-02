@@ -9,7 +9,7 @@
 
 
 ## Data Transformation
-(log, Box-Cox, Weighted least square)
+(log, variance-stabilization, Box-Cox,  least square)
 
 ## Automatic Selecton methods (Here:check p-value, you can also use AIC BIC and so on as a selection criterial):
 * Foward
